@@ -1,5 +1,5 @@
 name: 'puppet-parser-validate-action'
-author: 'Ira W. Snyder <https://github.com/irasnyd/>'
+author: 'Houssem B. Ali <https://github.com/hbenali/> forked from irasnyd'
 description: 'GitHub Action to run "puppet parser validate" syntax check'
 runs:
   using: 'docker'
